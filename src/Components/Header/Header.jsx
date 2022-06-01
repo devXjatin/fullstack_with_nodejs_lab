@@ -5,7 +5,7 @@ import React from 'react'
 const Header = () => {
   return (
     <div className="bioData">
-        <h1>BioData-Jatin</h1>
+        <h1>BioData</h1>
     </div>
   )
 }
