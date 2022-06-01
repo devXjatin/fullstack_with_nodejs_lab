@@ -4,11 +4,17 @@ const Hobbies = () => {
   return (
     <div className='personalSkills'>
         <h2 className='heading'>Hobbies</h2>
-        <ul>
-            <li>Dressing Sense</li>
-            <li>Communication Skill</li>
-            <li>Problem Solver</li>
-            <li>Multi-Tasker</li>
+        <ul className='keyPoints'>
+            <li>Chess</li>
+            <li>Playing a muscial instrument</li>
+            <li>Reading</li>
+            <li>Writing</li>
+            <li>Watching movies</li>
+            <li>Watching TV shows</li>
+            <li>Playing video games</li>    
+            <li>Photography</li>    
+            <li>Design</li>    
+
             
         </ul>
     </div>

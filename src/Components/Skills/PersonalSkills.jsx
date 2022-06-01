@@ -4,7 +4,7 @@ const PersonalSkills = () => {
   return (
     <div className='personalSkills'>
         <h2 className='heading'>Personal Skills</h2>
-        <ul>
+        <ul className='keyPoints'>
             <li>Dressing Sense</li>
             <li>Communication Skill</li>
             <li>Problem Solver</li>
